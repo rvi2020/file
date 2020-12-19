@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<servers>
+<server name="BACK UP SERVER" ca="0" continent_code="ID"
+  country="Ruang Back up server utama" country_code="ID" ip="mumble-de.cleanvoice.com"
+  port="40082" region="Radio virtual indonesia" url="http://mumble-de.cleanvoice.com" token=""></server><server name="RVI VIP 1" ca="0" continent_code="ID"
+  country="Ruang Khusus" country_code="ID" ip="164.132.3.62"
+  port="45405" region="Radio virtual indonesia" url="http://mb.puma-network.net" token=""></server><server name="RVI VIP 2" ca="0" continent_code="ID" country="Silahkan Hubungi Pengurus Untuk Dapat Vip Server" country_code="ID" ip="164.132.3.62" port="43927" region="Indonesia" url="http://mb.puma-network.net" token=""/></servers>
+
+</servers>
